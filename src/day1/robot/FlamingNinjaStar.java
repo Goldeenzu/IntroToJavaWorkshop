@@ -17,14 +17,17 @@ public class FlamingNinjaStar {
 		// *15. Make some adjustments to see what other kinds of shapes you can make.
 
 		// 1. Show the robot
+		Robot kevin = new Robot
 
 		// 12. Set the robot speed to 10
 
 		// 13. Make all the code below repeat 25 times
 
-			// 2. Turn the robot 1/8 of a circle
+				kevin.turn(360/8);
 		
 			// 3. Move the robot 64 pixels
+		kevin.move(64);
+		
 
 			
 			// 4. Turn the robot 40 degrees to the LEFT. (Negative numbers will turn the robot counter-clockwise.)
